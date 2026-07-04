@@ -1,0 +1,2 @@
+Investigating first and second numerical derivative of exp(x) function for different values of step size h.
+Three point formula was used to differentiate.

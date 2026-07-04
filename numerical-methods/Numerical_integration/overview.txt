@@ -1,0 +1,2 @@
+Investigating trapezoidal, Simpson and Gaussian quadrature integration algorithms on different functions.
+Trapezoidal and Simpson results are displayed in jupyter notebook for clarity.
