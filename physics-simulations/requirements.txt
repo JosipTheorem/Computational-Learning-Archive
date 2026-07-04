@@ -1,0 +1,12 @@
+jupyterlab
+ipykernel
+ipython
+numpy
+matplotlib
+scipy
+sympy
+plotly
+numba
+ase
+seekpath
+banduppy
